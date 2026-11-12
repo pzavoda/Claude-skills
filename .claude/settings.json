@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-skills": {
+      "source": { "source": "github", "repo": "pzavoda/Claude-skills" }
+    }
+  },
+  "enabledPlugins": {
+    "prompt-master@claude-skills": true
+  }
+}

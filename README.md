@@ -21,3 +21,7 @@ claude plugin install prompt-master --marketplace pzavoda/Claude-skills
 ```
 
 In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `pzavoda/Claude-skills`, then Add plugin.
+
+## Automatic in sessions on this repo
+
+`.claude/settings.json` registers this marketplace and enables `prompt-master`, so any Claude Code session opened on this repository (including cloud sessions) offers or loads it with no manual install.
