@@ -1,0 +1,5 @@
+{
+  "name": "claude-skills",
+  "owner": { "name": "pzavoda" },
+  "plugins": [{ "name": "prompt-master", "source": "./plugins/prompt-master", "description": "Rewrites your rough prompt into a better one before you send it" }]
+}
